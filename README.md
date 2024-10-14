@@ -1,10 +1,12 @@
 ## Profile
-Nama: Cindy Amelia Prameswari
-Kelas: 5B Informatika
-
-Universitas Singaperbangsa Karawang
-Prodi Informatika
-Mata Kuliah: Framework Pemrograman Web
-Dosen Pengampu: Kamal Prihandani, M.kom.
+<div>
+  <p>Nama: Cindy Amelia Prameswari</p>
+  <p>Kelas: 5B Informatika</p>
+  <p>Universitas Singaperbangsa Karawang</p>
+  <p>Prodi Informatika</p>
+  <p>Mata Kuliah: Framework Pemrograman Web</p>
+  <p>Dosen Pengampu: Kamal Prihandani, M.kom.</p>
+</div>
 
 ## Deskripsi Program
+Sebuah program untuk menginput data produk.
